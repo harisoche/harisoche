@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harisoche
-- 👀 I’m interested in Java and Python for now
-- 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate on any project with Java or Python so I can learn new methodology or any programming way.
+- 👀 I’m interested in Java, Golang and Python for now
+- 🌱 I’m currently learning Java, Golang, Laravel and Python
+- 💞️ I’m looking to collaborate on any project with Java, Golang or Python so I can learn new methodology or any programming way.
 - 📫 How to reach me ? just email me at haris@ochedev.me
 
 I know a little about Telegram Bot with Java, Java Restful, Spring-boot, Hibernate, Spring-batch and Selenium with Java. For Python I still learn the fundamental, 
